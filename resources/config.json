@@ -1,0 +1,8 @@
+{
+  "server_port": 8080,
+  "log_level": "info",
+  "db_host": "localhost",
+  "db_port": 5432,
+  "db_username": "root",
+  "db_password": "123456"
+}
